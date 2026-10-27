@@ -1,0 +1,1 @@
+# PageGlow Example 2\n\nSecond sample project with a new visual theme and storybook layout.\n\nIncludes 30 stories, 10 genres, one chapter each, semantic HTML, working navigation, story reader, cover and supporting images, external CSS/JS, search, genre filters, likes, synopsis toggles, dark/light mode, and reading progress.\n\nExtract and open `index.html` in your browser.\n
